@@ -1,0 +1,14 @@
+{
+    "name": "manu/emanuele-coppola",
+    "description": "This theme is meant to be used only for Emanuele Coppola's website.",
+    "type": "project",
+    "license": "UNLICENSED",
+    "authors": [
+        {
+            "name": "Emanuele Coppola",
+            "email": "emanuele.coppola99@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

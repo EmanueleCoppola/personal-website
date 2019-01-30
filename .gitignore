@@ -1,9 +1,13 @@
 # IDE
-.idea/
+/.idea/
 
 # NPM
-node_modules/
+/node_modules/
 package-lock.json
 
 # Mix
 mix-manifest.json
+
+# Composer
+/vendor/
+composer.lock
