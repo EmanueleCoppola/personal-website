@@ -1,1 +1,13 @@
 
+/**
+ *  Inconsolata font.
+ */
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: normal;
+  src: url(./assets/fonts/inconsolata/regular/inconsolata-regular.ttf) format('ttf'),
+       url(./assets/fonts/inconsolata/regular/inconsolata-regular.woff2) format('woff2'),
+       url(./assets/fonts/inconsolata/regular/inconsolata-regular.woff) format('woff');
+}

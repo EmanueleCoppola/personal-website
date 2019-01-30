@@ -51,3 +51,7 @@ mix.sass('style.scss', path.dirname(__filename));
 //   terser: {}, // Terser-specific options. https://github.com/webpack-contrib/terser-webpack-plugin#options
 //   postCss: [] // Post-CSS options: https://github.com/postcss/postcss/blob/master/docs/plugins.md
 // });
+
+mix.options({
+  processCssUrls: false,
+});
