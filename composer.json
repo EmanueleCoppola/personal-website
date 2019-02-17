@@ -10,8 +10,15 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "nesbot/carbon": "^2.11"
+    },
     "autoload": {
-        "classmap": ["classes/"]
+        "classmap": [
+            "classes/"
+        ],
+        "files": [
+            "inc/date_time_functions.php"
+        ]
     }
 }
